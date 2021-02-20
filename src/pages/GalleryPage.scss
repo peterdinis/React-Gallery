@@ -1,0 +1,29 @@
+.searching {
+    text-align: center;
+    margin-top: 4rem;
+    scroll-behavior: smooth;
+
+    .image {
+        width: 100%;
+    }
+
+    .card-title {
+        font-size: 1.2rem !important;
+        margin-top: 0.4rem;
+    }
+
+    .header-title {
+        font-size: 1.3rem !important;
+    }
+
+    .text {
+        font-weight: bold !important;
+        margin-top: 0.3rem;
+    }
+}
+
+.header {
+    margin-top: 2rem;
+    text-align: center;
+    text-shadow: 5px 5px #eee;
+}
